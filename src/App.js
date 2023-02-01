@@ -7,7 +7,12 @@ var emogiDictionary = {
   "🤩": "Star struck",
   "🫢": "Face with Open Eyes and Hand Over Mouth",
   "🫣": "Face with Peeking Eye",
-  "🫡": "Saluting Face"
+  "🫡": "Saluting Face",
+  "🫶": "Heart Hands",
+  "😆": "Grinning Squinting Face",
+  "😇": "Smiling Face with Halo",
+  "🤪": "Zany Face",
+  "🤑": "Money-Mouth Face"
 };
 
 var emogiWeKnow = Object.keys(emogiDictionary);
